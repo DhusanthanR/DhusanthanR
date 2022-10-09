@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhusanthan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, Reactjs, Nodejs, Mongodb
+- 🌱 I’m currently working Java, Sql Server, Reactjs, Nodejs, Angularjs
 - 💞️ I’m looking to collaborate on Reactjs
 - 📫 How to reach me [Connect](https://dhusanthanr.github.io/)
 
