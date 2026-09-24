@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhusanthan
-- 👀 I’m interested in software development
-- 🌱 I’m currently working Java, Spring boot Sql Server, Reactjs, 
+- 👀 I’m a Full stack developer
+- 🌱 I’m currently working Java, Spring boot, MicroService, Sql Server, Reactjs, 
 - 📫 How to reach me [Connect](https://dhusanthanr.github.io/)
 
 <!---
